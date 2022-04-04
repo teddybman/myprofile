@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    width: 100%;
+}
+
+body {
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div .row  {
+    padding: 10px;
+}
+
+div .card {
+    padding: 10px;
+}
+
+div .container {
+    padding: 10px
+}
